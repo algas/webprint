@@ -1,0 +1,8 @@
+*.pyc
+build
+dist
+tmp
+*.egg-info
+.python-version
+*.sublime-project
+*.sublime-workspace
